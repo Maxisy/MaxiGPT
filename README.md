@@ -4,7 +4,6 @@
 <ul>
 <li>`/start` - start a chat with the AI</li>
 <li>`/stop` - stop the chat</li>
-<li>`/private` - toggle private mode</li>
 </ul>
 
 <h2>.env</h2>
